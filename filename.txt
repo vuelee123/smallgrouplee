@@ -6,3 +6,6 @@ used to add files!
 
 git status
 tells you everything that you need to know about the cucurrent branch
+
+git branch
+creates a new branch
