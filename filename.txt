@@ -4,3 +4,5 @@ creating a copy of your latest repos.
 git add
 used to add files!
 
+git status
+tells you everything that you need to know about the cucurrent branch
