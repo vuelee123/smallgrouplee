@@ -1,2 +1,6 @@
 git clone
 creating a copy of your latest repos.
+
+git add
+used to add files!
+
